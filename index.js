@@ -15,7 +15,7 @@ client.giveawaysManager = new GiveawaysManager(client, {
         reaction: "🎉"
     }
 });
-//Coded by Zero
+//Coded by zerosenpai
 
 /* Load all events */
 fs.readdir("./events/", (_err, files) => {
